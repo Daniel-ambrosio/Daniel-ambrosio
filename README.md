@@ -1,6 +1,6 @@
 ## Olá! Bem vindo ao meu perfil😁
 
-💻 Hoje trabalho como fullstack   📚 Faculdade de Engenharia de Software
+💻 Hoje trabalho como fullstack       ##    📚 Faculdade de Engenharia de Software
 <div>
   <a href="https://github.com/Daniel-ambrosio">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Daniel-ambrosio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
